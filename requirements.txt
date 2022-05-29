@@ -1,0 +1,5 @@
+telethon
+aiogram
+psycopg2
+aiohttp
+datetime
